@@ -8,6 +8,12 @@ public class Deuxieme {
     
     public static void main(String[] args){
 
+        doManyThings("Nice");
+
+    }
+
+    public static void doManyThings(String word) {
+            
         String exemple = "Hello";
 
         //String est une classe, qui possède donc de nombreuses méthodes comme "toUpperCase" qui met tout en majuscule
@@ -18,7 +24,10 @@ public class Deuxieme {
 
         exemple = exemple.replace("LO", "LOLO");
 
-        System.out.println(exemple + " world !!");
+        System.out.println("Exemple : " + exemple);
+
+        System.out.println("Fontion = " + word + " world !!");
+
+        }
         
-    }
 }
