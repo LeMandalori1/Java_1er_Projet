@@ -12,7 +12,7 @@ public class Main {
 
         double nombre2 = 123.123456;
 
-        //Si je dois faire des divisions, je dois utiliser absolument des duoble et pas des int
+        //Si je dois faire des divisions, je dois utiliser absolument des double et pas des int
 
         float a = 2;
 

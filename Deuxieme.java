@@ -26,7 +26,7 @@ public class Deuxieme {
 
         System.out.println("Exemple : " + exemple);
 
-        System.out.println("Fontion = " + word + " world !!");
+        System.out.println("Fonction = " + word + " world !!");
 
         }
         
